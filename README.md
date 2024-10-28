@@ -1,10 +1,8 @@
-# Project 3 - Trivia
+# Project 3 - Trivia - CodePath
 
 Submitted by: Heeba Eddouh
 
 Trivia is an app that quizzes you on questions.
-
-Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -14,25 +12,10 @@ The following **required** functionality is completed:
 - [x] User can view the next question after tapping an answer
 - [x] User can answer at least 3 different questions
 
-
-The following **optional** features are implemented:
-
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 https://imgur.com/a/9vzQHaS
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
